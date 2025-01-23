@@ -1,0 +1,16 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "高德地图设置",
+                "description": "请输入高德地图API密钥",
+                "data": {
+                    "api_key": "API密钥"
+                }
+            }
+        },
+        "error": {
+            "invalid_api_key": "无效的API密钥"
+        }
+    }
+} 
